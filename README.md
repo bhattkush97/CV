@@ -1,2 +1,2 @@
 # Mockup
-A CV design
+A rough design for responsive cv 
